@@ -9,7 +9,7 @@ This project focuses on analyzing and visualizing Olympic Games data using Pytho
 It includes scripts for data cleaning, preprocessing, and helper utilities to generate insights about athletes, countries, and medals.
 
 ---
-Try Here:https://rakesh-olympics-data-analysis.streamlit.app/
+Try Here: https://rakesh-olympics-data-analysis.streamlit.app/
 
 ## ⚙️ Installation & Setup
 
